@@ -1,4 +1,3 @@
 component {
-
 	this.Name = "LuceeInLinux";
 }
