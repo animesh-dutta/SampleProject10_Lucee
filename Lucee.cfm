@@ -8,4 +8,3 @@
   x="Hey,Lucee and Switzerland :) !" ;
   writeDump(x);
 </cfscript>
-
