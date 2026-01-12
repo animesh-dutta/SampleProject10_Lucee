@@ -1,5 +1,5 @@
 <!--- Author:Animesh Dutta (Ananya Birla) ---> 
-component { 
+component {  
 	this.Name = "LuceeInLinux"; 
 }
  
